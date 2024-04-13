@@ -1,2 +1,2 @@
-# SYDE556
+# SYDE552
 Computational Neuroscience
